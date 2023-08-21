@@ -1,0 +1,10 @@
+body {
+  font-family: "Work Sans", sans-serif;
+  background-color: #f8f8f8;
+}
+
+.button-disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  pointer-events: none;
+}
